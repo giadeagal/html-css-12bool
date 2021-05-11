@@ -1,6 +1,14 @@
-.container-fluid {
+
+.container {
     width: 560px;
     margin: auto;
+    position: relative;
+}
+
+img {
+    position:absolute;
+    top: 30px;
+    object-fit: contain;
 }
 
 .box {
