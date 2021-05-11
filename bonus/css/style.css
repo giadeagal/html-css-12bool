@@ -3,11 +3,13 @@
     width: 560px;
     margin: auto;
     position: relative;
+    background-image: url(../img/sfondo-pokemon.png);
 }
 
 img {
     position:absolute;
     top: 30px;
+    width: 100%;
 }
 
 .box {
