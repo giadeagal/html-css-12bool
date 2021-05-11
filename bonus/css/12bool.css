@@ -93,6 +93,22 @@
     flex-basis: calc((100% / 50) * 16);
     max-width: calc((100% / 50) * 16);
 }
+.col-xs-17 {
+    flex-basis: calc((100% / 50) * 17);
+    max-width: calc((100% / 50) * 17);
+}
+.col-xs-18 {
+    flex-basis: calc((100% / 50) * 18);
+    max-width: calc((100% / 50) * 18);
+}
+.col-xs-19 {
+    flex-basis: calc((100% / 50) * 19);
+    max-width: calc((100% / 50) * 19);
+}
+.col-xs-20 {
+    flex-basis: calc((100% / 50) * 20);
+    max-width: calc((100% / 50) * 20);
+}
 
 .col-xs-50 {
     flex-basis: calc((100% / 50) * 50);
